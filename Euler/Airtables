@@ -1,0 +1,4 @@
+update USERS set MONTH_SALARY = 0
+update MONEY set TURNOVER = 0
+
+992
